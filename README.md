@@ -1,4 +1,9 @@
-# [WireGuard](https://www.wireguard.com/) for Windows
+# Ru-WireGuard for Windows
+
+This is a fully-featured Ru-WireGuard client for Windows based on [Ru-WireGuard](https://github.com/bi-zone/ruwireguard-go) in Go.
+
+This software is experimental. You must not use this in production.
+---
 
 This is a fully-featured WireGuard client for Windows that uses [Wintun](https://www.wintun.net/). It is the only official and recommended way of using WireGuard on Windows.
 
