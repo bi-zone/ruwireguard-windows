@@ -25,6 +25,7 @@ This repository is MIT-licensed.
 
 ```text
 Copyright (C) 2018-2020 WireGuard LLC. All Rights Reserved.
+Copyright (C) 2020 BI.ZONE LLC. All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
