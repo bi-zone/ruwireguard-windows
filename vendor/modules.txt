@@ -1,0 +1,91 @@
+# github.com/bi-zone/ruwireguard-go v0.0.0-20201218131619-3d3aaf413788
+## explicit
+github.com/bi-zone/ruwireguard-go/conn
+github.com/bi-zone/ruwireguard-go/crypto/gost/gost3410
+github.com/bi-zone/ruwireguard-go/crypto/gost/gost34112012256
+github.com/bi-zone/ruwireguard-go/crypto/gost/gost34112012512
+github.com/bi-zone/ruwireguard-go/crypto/gost/gost3412128
+github.com/bi-zone/ruwireguard-go/crypto/gost/internal/gost34112012
+github.com/bi-zone/ruwireguard-go/crypto/gosthopper
+github.com/bi-zone/ruwireguard-go/crypto/kdf
+github.com/bi-zone/ruwireguard-go/crypto/mgm
+github.com/bi-zone/ruwireguard-go/device
+github.com/bi-zone/ruwireguard-go/ipc
+github.com/bi-zone/ruwireguard-go/ipc/winpipe
+github.com/bi-zone/ruwireguard-go/ratelimiter
+github.com/bi-zone/ruwireguard-go/replay
+github.com/bi-zone/ruwireguard-go/rwcancel
+github.com/bi-zone/ruwireguard-go/tai64n
+github.com/bi-zone/ruwireguard-go/tun
+github.com/bi-zone/ruwireguard-go/tun/wintun
+github.com/bi-zone/ruwireguard-go/tun/wintun/memmod
+github.com/bi-zone/ruwireguard-go/tun/wintun/resource
+# github.com/lxn/walk v0.0.0-20201209144500-98655d01b2f1 => golang.zx2c4.com/wireguard/windows v0.0.0-20201130211600-76ef01985b1c
+## explicit
+github.com/lxn/walk
+# github.com/lxn/win v0.0.0-20201111105847-2a20daff6a55 => golang.zx2c4.com/wireguard/windows v0.0.0-20201107183008-659a4e955570
+## explicit
+github.com/lxn/win
+# golang.org/x/crypto v0.0.0-20201208171446-5f87f3452ae9
+## explicit
+golang.org/x/crypto/blake2b
+golang.org/x/crypto/blake2s
+golang.org/x/crypto/curve25519
+# golang.org/x/net v0.0.0-20201216054612-986b41b23924
+## explicit
+golang.org/x/net/bpf
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+golang.org/x/net/ipv4
+golang.org/x/net/ipv6
+# golang.org/x/sys v0.0.0-20201218084310-7d0127a74742
+## explicit
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+golang.org/x/sys/windows/registry
+golang.org/x/sys/windows/svc
+golang.org/x/sys/windows/svc/mgr
+# golang.org/x/text v0.3.5-0.20201208001344-75a595aef632
+## explicit
+golang.org/x/text/collate
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/unicode
+golang.org/x/text/feature/plural
+golang.org/x/text/internal
+golang.org/x/text/internal/catmsg
+golang.org/x/text/internal/colltab
+golang.org/x/text/internal/format
+golang.org/x/text/internal/gen
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/number
+golang.org/x/text/internal/stringset
+golang.org/x/text/internal/tag
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/language
+golang.org/x/text/message
+golang.org/x/text/message/catalog
+golang.org/x/text/message/pipeline
+golang.org/x/text/runes
+golang.org/x/text/transform
+golang.org/x/text/unicode/cldr
+golang.org/x/text/unicode/norm
+# golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e
+golang.org/x/tools/go/ast/astutil
+golang.org/x/tools/go/buildutil
+golang.org/x/tools/go/callgraph
+golang.org/x/tools/go/callgraph/cha
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/internal/cgo
+golang.org/x/tools/go/internal/gcimporter
+golang.org/x/tools/go/loader
+golang.org/x/tools/go/packages
+golang.org/x/tools/go/ssa
+golang.org/x/tools/go/ssa/ssautil
+golang.org/x/tools/go/types/typeutil
+# github.com/lxn/walk => golang.zx2c4.com/wireguard/windows v0.0.0-20201130211600-76ef01985b1c
+# github.com/lxn/win => golang.zx2c4.com/wireguard/windows v0.0.0-20201107183008-659a4e955570
