@@ -1,4 +1,4 @@
-# github.com/bi-zone/ruwireguard-go v0.0.0-20201218131619-3d3aaf413788
+# github.com/bi-zone/ruwireguard-go v0.0.0-20201222151552-0de9ac51051e
 ## explicit
 github.com/bi-zone/ruwireguard-go/conn
 github.com/bi-zone/ruwireguard-go/crypto/gost/gost3410
@@ -38,7 +38,7 @@ golang.org/x/net/internal/iana
 golang.org/x/net/internal/socket
 golang.org/x/net/ipv4
 golang.org/x/net/ipv6
-# golang.org/x/sys v0.0.0-20201218084310-7d0127a74742
+# golang.org/x/sys v0.0.0-20201223074533-0d417f636930
 ## explicit
 golang.org/x/sys/cpu
 golang.org/x/sys/internal/unsafeheader
